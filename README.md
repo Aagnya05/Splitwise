@@ -1,1 +1,1 @@
- # Billbuddy
+ # SplitWise
